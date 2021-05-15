@@ -1,1 +1,1 @@
-print("something inapropriete")
+print("something inappropriate")
